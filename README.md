@@ -1,0 +1,2 @@
+# project
+ dsai minor
